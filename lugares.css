@@ -1,0 +1,50 @@
+.contenedor_lugares {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+}
+
+.contenedor_lugares div{
+    background-color: aqua;
+    width: 18em;
+    height: 18em;
+}
+
+.Titulo {
+    position: relative;
+    display: flex;
+    flex-direction: column;
+}
+
+.explicacion_lugares {
+    background-color: #8fabd438 ;
+}
+
+li {
+    font-size: larger;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+#imagen1 {
+    background-image: url(../Imagenes/noruega.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+#imagen2 {
+    background-image: url(../Imagenes/canadajpg.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+#imagen3 {
+    background-image: url(../Imagenes/oregon.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+#imagen4 {
+    background-image: url(../Imagenes/yosemite.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}

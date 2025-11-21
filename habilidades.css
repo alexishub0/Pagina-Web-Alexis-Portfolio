@@ -1,0 +1,32 @@
+.contenedor_habilidades {
+    background-color: #435663;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+}
+#lista_habilidades,li {
+    list-style: none;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    padding: 1em;
+}
+
+#boton {
+width: 170px;
+height: 60px;
+border: 10px solid #315cfd;
+border-radius: 45px;
+transition: all 0.3s;
+cursor: pointer;
+background: white;
+font-size: 1em;
+font-weight: 550;
+}
+
+#boton:hover {
+background: #315cfd;
+color: white;
+font-size: 1.2em;
+}
