@@ -26,25 +26,26 @@ li {
 }
 
 #imagen1 {
-    background-image: url(../Imagenes/noruega.jpg);
+    background-image: url(noruega.jpg);
     background-repeat: no-repeat;
     background-size: cover;
 }
 
 #imagen2 {
-    background-image: url(../Imagenes/canadajpg.jpg);
+    background-image: url(canadajpg.jpg);
     background-repeat: no-repeat;
     background-size: cover;
 }
 
 #imagen3 {
-    background-image: url(../Imagenes/oregon.jpg);
+    background-image: url(oregon.jpg);
     background-repeat: no-repeat;
     background-size: cover;
 }
 
 #imagen4 {
-    background-image: url(../Imagenes/yosemite.jpg);
+    background-image: url(yosemite.jpg);
     background-repeat: no-repeat;
     background-size: cover;
+
 }
